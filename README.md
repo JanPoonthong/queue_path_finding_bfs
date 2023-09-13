@@ -1,5 +1,5 @@
 # Queue Path Finding BFS
-This project is for Data Structure and Algorithm course in Assumption University
+This project is for Data Structure and Algorithm course in Assumption University.
 
 Team:
   1. Jan
